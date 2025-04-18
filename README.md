@@ -11,7 +11,7 @@ Je suis impliqué dans plusieurs projets à la fois, en tant qu’**AppSec Engin
 - **Frontend**: React, Vite, TailwindCSS, TanStack Query
 - **Backend**: Node.js, Express, Sequelize
 - **AppSec**: Sécurisation des applications, audits de sécurité, gestion des vulnérabilités
-- **Autres**: Git, PostgreSQL, MySQL, VPS, Linux, CI/CD, API REST, WebSockets
+- **Autres**: Git, PostgreSQL, MySQL, VPS, Linux, CI/CD, CapRover, API REST, WebSockets
 
 ### 📊 GitHub Stats
 ![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnMomboko&show_icons=true&theme=radical)
