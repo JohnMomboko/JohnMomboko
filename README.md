@@ -8,10 +8,10 @@ Passionné par la sécurité des applications et l'innovation numérique, je me 
 Je suis impliqué dans plusieurs projets à la fois, en tant qu’**AppSec Engineer Junior**, mais aussi en tant que **créateur et entrepreneur**. Je travaille principalement sur des applications web, en mettant un accent particulier sur la **sécurisation des données** et des processus. Ma démarche repose sur des bonnes pratiques en matière de **cybersécurité**, **DevSecOps**, et **sécurisation des API**.
 
 ### 🛠️ Compétences
-- **Frontend**: React, Vite, TailwindCSS
+- **Frontend**: React, Vite, TailwindCSS, TanStack Query
 - **Backend**: Node.js, Express, Sequelize
 - **AppSec**: Sécurisation des applications, audits de sécurité, gestion des vulnérabilités
-- **Autres**: Git, Docker, PostgreSQL, VPS, Linux, CI/CD, OWASP
+- **Autres**: Git, PostgreSQL, MySQL, VPS, Linux, CI/CD, API REST, WebSockets
 
 ### 📊 GitHub Stats
 ![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnMomboko&show_icons=true&theme=radical)
