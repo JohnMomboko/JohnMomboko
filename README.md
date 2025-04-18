@@ -5,7 +5,7 @@
 Passionné par la sécurité des applications et l'innovation numérique, je me spécialise dans le développement sécurisé des applications et des systèmes web. Mon objectif est de créer des solutions à la fois performantes, évolutives et sécurisées pour répondre aux défis du monde numérique moderne.
 
 ### 🚀 Ce que je fais
-Je suis impliqué dans plusieurs projets à la fois, en tant qu’**AppSec Engineer Junior**, mais aussi en tant que **créateur et entrepreneur**. Je travaille principalement sur des applications web, en mettant un accent particulier sur la **sécurisation des données** et des processus. Ma démarche repose sur des bonnes pratiques en matière de **cybersécurité**, **DevSecOps**, et **sécurisation des API**.
+Je suis impliqué dans plusieurs projets à la fois, en tant qu’**AppSec Engineer Junior**, mais aussi en tant que **créateur et entrepreneur**. Je travaille principalement sur des applications web, en mettant un accent particulier sur la **sécurisation des données** et des processus. Ma démarche repose sur des bonnes pratiques en matière de **cybersécurité**.
 
 ### 🛠️ Compétences
 - **Frontend**: React, Vite, TailwindCSS, TanStack Query
