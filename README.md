@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Salut, moi c’est John Momboko !
 
-<!--
-**JohnMomboko/JohnMomboko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Développeur Full-Stack | 🧠 Tech/Web Entrepreneur | 🚀 Fondateur de MDV
 
-Here are some ideas to get you started:
+🌐 Je crée des applications modernes & des plateformes web utiles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences
+- **Frontend**: React, Vite, TailwindCSS
+- **Backend**: Node.js, Express, Sequelize
+- **Autres**: Git, Docker, PostgreSQL, VPS, Linux
+
+## 📊 GitHub Stats
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnMomboko&show_icons=true&theme=radical)
+
+## 🔗 Liens
+[🌍 Mon site MDV](https://ton-lien-mdv.com)  
+[💼 LinkedIn](https://linkedin.com/in/ton-lien)  
+[📧 Contact](mailto:ton.email@example.com)
