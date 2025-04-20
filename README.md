@@ -14,6 +14,7 @@ Je suis impliqué dans plusieurs projets à la fois, en tant qu’**AppSec Engin
 - **Autres**: Git, PostgreSQL, MySQL, VPS, Linux, CI/CD, CapRover, API REST, WebSockets
 
 ### 📊 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=JohnMomboko
 ![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnMomboko&show_icons=true&theme=radical)
 
 ### 🌱 Ce que j’apprends actuellement
