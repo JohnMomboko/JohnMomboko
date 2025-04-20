@@ -12,10 +12,11 @@ Je suis impliqué dans plusieurs projets à la fois, en tant qu’**AppSec Engin
 - **Backend**: Node.js, Express, Sequelize
 - **AppSec**: Sécurisation des applications, audits de sécurité, gestion des vulnérabilités
 - **Autres**: Git, PostgreSQL, MySQL, VPS, Linux, CI/CD, CapRover, API REST, WebSockets
-- ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=JohnMomboko&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ### 📊 GitHub Stats
 ![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnMomboko&show_icons=true&theme=radical)
+![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=JohnMomboko&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
 
 ### 🌱 Ce que j’apprends actuellement
 - Techniques avancées en **sécurité des applications**
